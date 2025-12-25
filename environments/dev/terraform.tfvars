@@ -8,7 +8,7 @@ rgs = {
     }
   }
 
-  rg2 = {
+  rg3 = {
     name       = "jawaharrg2"
     location   = "East US"
     managed_by = "jpboss"
